@@ -1,8 +1,8 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
-import Sidebar, { type ViewKey } from "./components/sidebar";
-import Topbar from "./components/topbar";
-import AssetModal from "./components/assetmodal";
-import VehicleDrawer from "./components/vehicledrawer";
+import Sidebar, { type ViewKey } from "./components/Sidebar";
+import Topbar from "./components/Topbar";
+import AssetModal from "./components/AssetModal";
+import VehicleDrawer from "./components/VehicleDrawer";
 import Dashboard from "./views/dashboard";
 import Fleet from "./views/fleet";
 import BaysView from "./views/bays";
