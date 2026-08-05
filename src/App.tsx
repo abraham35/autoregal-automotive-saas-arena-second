@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
-import Sidebar, { type ViewKey } from "./components/Sidebar";
+import Sidebar, { type ViewKey } from "./Components/Sidebar";
 import Topbar from "./components/Topbar";
 import AssetModal from "./components/AssetModal";
 import VehicleDrawer from "./components/VehicleDrawer";
