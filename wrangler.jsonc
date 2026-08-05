@@ -1,7 +1,10 @@
 {
-"name": "autoregal-automotive-saas-arena-rev",
+  "name": "autoregal-automotive-saas-arena-rev",
   "compatibility_date": "2024-04-01",
-  "assets": { "directory": "./dist" }
+  "assets": { "directory": "./dist" },
+  "vars": {
+    "NPM_CONFIG_ALLOW_SCRIPTS": "true"
+  }
 }
 
 
